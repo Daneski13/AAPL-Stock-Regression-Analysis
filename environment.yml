@@ -30,6 +30,7 @@ dependencies:
   - decorator=5.1.1=pyhd8ed1ab_0
   - defusedxml=0.7.1=pyhd8ed1ab_0
   - entrypoints=0.4=pyhd8ed1ab_0
+  - et_xmlfile=1.1.0=pyhd8ed1ab_0
   - executing=1.2.0=pyhd8ed1ab_0
   - flit-core=3.8.0=pyhd8ed1ab_0
   - fonttools=4.39.0=py311he2be06e_0
@@ -102,7 +103,8 @@ dependencies:
   - notebook-shim=0.2.2=pyhd8ed1ab_0
   - numpy=1.24.2=py311h60f8152_0
   - openjpeg=2.5.0=hbc2ba62_2
-  - openssl=3.0.8=h03a7124_0
+  - openpyxl=3.1.1=py311he2be06e_0
+  - openssl=3.1.0=h03a7124_0
   - packaging=23.0=pyhd8ed1ab_0
   - pandas=1.5.3=py311h4eec4a9_0
   - pandoc=2.19.2=hce30654_2
@@ -175,3 +177,4 @@ dependencies:
   - zstd=1.5.2=hf913c23_6
   - pip:
       - frozendict==2.3.0
+prefix: /Users/dane/miniconda3/envs/AAPL-regression-analysis
